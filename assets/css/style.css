@@ -1,0 +1,30 @@
+body {
+    background-image: url("../images/graveyard.jpg");
+    width: 100%;
+    padding-bottom: 100%;
+}
+
+h1 {
+    color: red;
+    font-family: 'Lobster', cursive;
+    font-size: 300%;
+    text-align: center;
+}
+.form-group{
+	color:red;
+	font-size:150%;
+}
+
+#monsterButtons{
+text-align: center;
+}
+
+.gif{
+	float:left;
+	width:25%;
+	padding:10px;
+}
+p {
+	color:red;
+
+}
